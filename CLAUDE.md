@@ -1,0 +1,1 @@
+My app helps families and local visitors book fruit picking experiences, purchase seasonal produce, and participate in farm events by providing an intuitive web platform for browsing, booking, and learning about fresh food.
